@@ -5,3 +5,6 @@
 但是目前这块的完整解决方案还在摸索当中。这个项目要要表达的只是本人自己的一个想法。  
 希望对大家能有个启发的作用。
 
+![基于Socket长链接传输的物联网采集系统-架构图](https://raw.githubusercontent.com/hanbin/sea/master/images/architecture.png)
+
+这个图只是一个初稿，这个项目我会持续完成。但是没有deadline。因为我真的不知道什么时候能够完成。
